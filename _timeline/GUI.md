@@ -6,8 +6,7 @@ caption: Η γραφική διεπαφή χρήστη GUI, είναι μια μ
 events:
   - Atari TOS
   - Quark Catalyst 3.0
-  - Linux
   - Microsoft Bob
-  - Microsoft 10
-  - Windows 95
+  - Squeak
+  - GEM
 ---
